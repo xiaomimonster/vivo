@@ -1,0 +1,90 @@
+/*
+* @Author: lenovo
+* @Date:   2018-03-09 21:33:10
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-03-10 14:51:39
+*/
+.box{
+	width: 186px;
+	height: 385px;
+	background: #939298;
+	margin: 0 auto;
+	border-radius: 18px;
+	overflow: hidden;
+}
+.top{
+	width: 178px;
+	height: 24px;
+	background: #939298;
+	margin-top: 2px;
+	border-top: 4px solid #F7F7F7;
+	border-left: 4px solid #F7F7F7;
+	border-right: 4px solid #F7F7F7;
+	border-top-right-radius: 18px;
+	border-top-left-radius: 18px;
+}
+.circle{
+	width: 24px;
+	height: 24px;
+	background: #000;
+	margin-left: 10px;
+	float: left;
+	border-radius: 50px;
+}
+.circle1{
+	width: 10px;
+	height: 10px;
+	background: #e7f779;
+	margin: 0 auto;
+	border: 6px solid #939298;
+	float: left;
+	margin-top: 2px;
+	border-radius: 50px;
+}
+.window{
+	width: 58px;
+	height: 16px;
+	background: #939298;
+	margin: 0 auto;
+	margin-top: 96px;
+	font-size: 30px;
+	color: rgb(174, 182, 193);
+	text-align: center;
+	line-height: 10px;
+}
+.bottom{
+	width: 178px;
+	height: 24px;
+	background: #939298;
+	margin-top: 213px;
+	border-bottom: 4px solid #F7F7F7;
+	border-left: 4px solid #F7F7F7;
+	border-right: 4px solid #F7F7F7;
+	border-bottom-right-radius: 18px;
+	border-bottom-left-radius: 18px;
+}
+.aside{
+	width: 3px;
+	height: 90px;
+	background: #fff;
+	position: absolute;
+	right: -3px;
+	top: 80px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+.aside-top{
+	width: 2px;
+	height: 55px;
+	background: #000;
+	margin-bottom: 15px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+.aside-bottom{
+	width: 2px;
+	height: 20px;
+	background: #000;
+	border-bottom-right-radius: 20px;
+	border-top-right-radius: 20px;
+}
